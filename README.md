@@ -13,6 +13,9 @@
 ### Project Overview
 
 This Project analyzes patient readmission trends from a hospital's historical records (2011-2022) using Microsoft SQL Server. The objective is to to identify key patterns in pateint admissions, readmissions, and associated healthcare costs to support strategic decision-making.
+![hospital patient records](https://github.com/user-attachments/assets/b7ceb360-25e4-4f9a-b0af-e6fbcad871ba)
+
+
 
 ### Business Questions or Objectives
 
